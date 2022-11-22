@@ -2,8 +2,6 @@
 
 Script criado por Joas Antonio 
 
-Créditos pelos outros scripts n00biekrakr
-
 Help:
 
 bash main.sh
